@@ -36,9 +36,9 @@ Status Symbols
 - 📝 내용 : 알고리즘 경진대회 [본선]
 - ✳ 결과 : 1 solved도 하지 못했다. 아침 4시에 서울 다녀온 게 문제였을까?
 - 알고리즘에 대한 자신감이 그대로 부숴졌다.. 급 차이를 계기로 성장해야겠다. 
-### ⏳ <span style="color:#f7ddbe"> [certificate] SQLD</span>
+### 🔄 <span style="color:#50bcdf"> [certificate] SQLD</span>
 - ✴ 결과 : 진행 전
-### ⏳ <span style="color:#f7ddbe"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
+### 🔄 <span style="color:#50bcdf"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
 - 📅 기간 : 2025.05.23 ~ 2025.06.27
 - 🎯 주관 : 인프런
 - 📝 내용 : 쿠버네티스 어나더 클래스(지상편) - Sprint 1, 2 강의 코치 기반 학습
