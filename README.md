@@ -30,11 +30,12 @@ Status Symbols
 ## 🌱 2025년 5월
 ### ✅ <span style="color:#00ff80"> [certificate] 정보처리기사 필기</span>
 - ⭐ 결과 : 합격!
-### 🔄 <span style="color:#50bcdf"> [certificate] TOPCIT</span>
-- ✳ 결과 : 진행 전
-### 🔄 <span style="color:#50bcdf"> [Competitions] 2025 AWS X CODETREE PROGRAMMING CONTEST</span>
+### ✅ <span style="color:#00ff80"> [certificate] TOPCIT</span>
+- ✳ 결과 : 前(290, 2수준, 24/10/12) -> 後(공개 전 : 전보단 높지 않을까 생각 중)
+### ❌ <span style="color:#f05650"> [Competitions] 2025 AWS X CODETREE PROGRAMMING CONTEST</span>
 - 📝 내용 : 알고리즘 경진대회 [본선]
-- ✳ 결과 : 진행 전
+- ✳ 결과 : 1 solved도 하지 못했다. 아침 4시에 서울 다녀온 게 문제였을까?
+- 알고리즘에 대한 자신감이 그대로 부숴졌다.. 급 차이를 계기로 성장해야겠다. 
 ### ⏳ <span style="color:#f7ddbe"> [certificate] SQLD</span>
 - ✴ 결과 : 진행 전
 ### ⏳ <span style="color:#f7ddbe"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
