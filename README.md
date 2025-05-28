@@ -27,6 +27,11 @@ Status Symbols
 ### ⏳ <span style="color:#f7ddbe"> [certificate] 정보처리기사 실기</span>
 - ✴ 7월 중 진행 예정
 ## 🌱 2025년 6월
+### ⏳ <span style="color:#f7ddbe"> [Clone Project] 내용 미정</span>
+- 📅 기간 : 2025.05.xx ~ 2025.0x.xx
+- 🎯 주관 : 구름톤 딥다이브 백엔드 3회차 과정
+- 📝 내용 : 클론 코딩 프로젝트 (6명 진행)
+- 주 포지션 : DevOps (데브옵스)
 ## 🌱 2025년 5월
 ### ✅ <span style="color:#00ff80"> [certificate] 정보처리기사 필기</span>
 - ⭐ 결과 : 합격!
@@ -46,7 +51,7 @@ Status Symbols
     - 쿠버네티스 핵심 오브젝트 이해 및 사용
     - 배포 파이프라인 구축 (Jenkins, Helm, Kustomize, ArgoCD)
 ## 🌱 2025년 4월
-### 🔄 <span style="color:#50bcdf"> [Personal Project] 일본어 학습용 웹 커뮤니티</span>
+### 🔄 <span style="color:#50bcdf"> [Personal Project] 일본어 학습 웹 커뮤니티</span>
 - 📅 기간 : 2025.04.19 ~
 - 📝 내용 : 현재 도메인 작업 중. 장기 운영 목적으로 비공개 레포지 전환 및 웹 디자인 및 트래픽 관련 포트폴리오 목표
     - Kubernetes(K3S) & Jenkins & Docker (CI/CD, MSA)
@@ -56,6 +61,8 @@ Status Symbols
     - Spring Boot (Back-End)
     - Home Server N100 (Back-End Server : 쿠버네티스 학습 목적)
     - MySQL
+    - 대학 학점 연계로 진행할 예정이므로 6월까지는 설계만 진행
+    - 사용 예정 도메인 주소 : jpstudy.org
 ## 🌱 2025년 3월
 - 3월의 신규 활동은 없었습니다
 ## 🌱 2025년 2월
