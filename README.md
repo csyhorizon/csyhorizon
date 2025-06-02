@@ -12,7 +12,6 @@
     <img src="http://mazandi.herokuapp.com/api?handle=tndyd83&theme=warm"/>
 </div>
 
-- 포트폴리오나 대외활동 이력, 자격증은 차곡차곡 만드는 중
 
 <!--
 Status Symbols
@@ -23,26 +22,30 @@ Status Symbols
 -->
 
 # 📋 Study Records
+~~~
+Study Records는 추후 포트폴리오용 블로그로 이전 할 예정
+~~~
 ## 🌱 2025년 7월
 ### ⏳ <span style="color:#f7ddbe"> [certificate] 정보처리기사 실기</span>
 - ✴ 7월 중 진행 예정
 ## 🌱 2025년 6월
-### ⏳ <span style="color:#f7ddbe"> [Clone Project] 내용 미정</span>
-- 📅 기간 : 2025.05.xx ~ 2025.0x.xx
+### ⏳ <span style="color:#f7ddbe"> [Clone Project] Uniqram</span>
+- 📅 기간 : 2025.05. ~ 2025.07. (2~3 개월)
 - 🎯 주관 : 구름톤 딥다이브 백엔드 3회차 과정
-- 📝 내용 : 클론 코딩 프로젝트 (6명 진행)
-- 주 포지션 : DevOps (데브옵스)
+- 📝 내용 : 인스타 그램 클론 코딩 
+- 👯 인원 : 6명
+- 🥇 주 포지션 : DevOps
+- 🥈 보조 포지션 : BackEnd
 ## 🌱 2025년 5월
 ### ✅ <span style="color:#00ff80"> [certificate] 정보처리기사 필기</span>
 - ⭐ 결과 : 합격!
 ### ✅ <span style="color:#00ff80"> [certificate] TOPCIT</span>
-- ✳ 결과 : 前(290, 2수준, 24/10/12) -> 後(공개 전 : 전보단 높지 않을까 생각 중)
+- ✳ 결과 : 前(290, 2수준, 24/10/12) -> 後(공개 전)
 ### ❌ <span style="color:#f05650"> [Competitions] 2025 AWS X CODETREE PROGRAMMING CONTEST</span>
 - 📝 내용 : 알고리즘 경진대회 [본선]
-- ✳ 결과 : 1 solved도 하지 못했다. 아침 4시에 서울 다녀온 게 문제였을까?
-- 알고리즘에 대한 자신감이 그대로 부숴졌다.. 급 차이를 계기로 성장해야겠다. 
+- ✳ 결과 : 1 solved조차 하지 못했다. 아침 4시에 서울 다녀온 게 문제였을까?
 ### 🔄 <span style="color:#50bcdf"> [certificate] SQLD</span>
-- ✴ 결과 : 시험 진행 완료 (다만 절반은 모르는 거라 기도 메타..)
+- ✴ 결과 : 시험 진행 완료 (점수 공개 전)
 ### 🔄 <span style="color:#50bcdf"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
 - 📅 기간 : 2025.05.23 ~ 2025.06.27
 - 🎯 주관 : 인프런
@@ -51,7 +54,7 @@ Status Symbols
     - 쿠버네티스 핵심 오브젝트 이해 및 사용
     - 배포 파이프라인 구축 (Jenkins, Helm, Kustomize, ArgoCD)
 ## 🌱 2025년 4월
-### 🔄 <span style="color:#50bcdf"> [Personal Project] 일본어 학습 웹 커뮤니티</span>
+### 🔄 <span style="color:#50bcdf"> [Personal Project] 외국어 학습 웹 사이트</span>
 - 📅 기간 : 2025.04.19 ~
 - 📝 내용 : 현재 도메인 작업 중. 장기 운영 목적으로 비공개 레포지 전환 및 웹 디자인 및 트래픽 관련 포트폴리오 목표
     - Kubernetes(K3S) & Jenkins & Docker (CI/CD, MSA)
@@ -62,7 +65,7 @@ Status Symbols
     - Home Server N100 (Back-End Server : 쿠버네티스 학습 목적)
     - MySQL
     - 대학 학점 연계로 진행할 예정이므로 6월까지는 설계만 진행
-    - 사용 예정 도메인 주소 : jpstudy.org
+    - 사용 할 도메인 주소 : jpstudy.org
 ## 🌱 2025년 3월
 - 3월의 신규 활동은 없었습니다
 ## 🌱 2025년 2월
