@@ -43,7 +43,7 @@ Study Records는 추후 포트폴리오용 블로그로 이전 할 예정
 - ✳ 결과 : 前(290, 2수준, 24/10/12) -> 後(공개 전)
 ### ❌ <span style="color:#f05650"> [Competitions] 2025 AWS X CODETREE PROGRAMMING CONTEST</span>
 - 📝 내용 : 알고리즘 경진대회 [본선]
-- ✳ 결과 : 1 solved조차 하지 못했다. 아침 4시에 서울 다녀온 게 문제였을까?
+- ✴ 결과 : 1 solved조차 하지 못했다. 아침 4시에 서울 다녀온 게 문제였을까?
 ### 🔄 <span style="color:#50bcdf"> [certificate] SQLD</span>
 - ✴ 결과 : 시험 진행 완료 (점수 공개 전)
 ### 🔄 <span style="color:#50bcdf"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
