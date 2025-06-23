@@ -40,7 +40,7 @@ Study Records는 추후 포트폴리오용 블로그로 이전 할 예정
 ### ✅ <span style="color:#00ff80"> [certificate] 정보처리기사 필기</span>
 - ⭐ 결과 : 합격!
 ### ✅ <span style="color:#00ff80"> [certificate] TOPCIT</span>
-- ✳ 결과 : 前(290, 2수준, 24/10/12) -> 後(410, 4수준, 25/05/24)
+- ✳ 결과 : 前(290, 2수준, 24/10/12) -> 後(410, 3수준, 25/05/24)
 - 후기 : 뭐.. 여전히 모자란 수준이지만 성장폭은 확실히 올라감
 ### ❌ <span style="color:#f05650"> [Competitions] 2025 AWS X CODETREE PROGRAMMING CONTEST</span>
 - 📝 내용 : 알고리즘 경진대회 [본선]
