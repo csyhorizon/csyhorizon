@@ -47,7 +47,7 @@ Study Records는 추후 포트폴리오용 블로그로 이전 할 예정
 - ✴ 결과 : 1 solved조차 하지 못했다. 아침 4시에 서울 다녀온 게 문제였을까?
 ### ❌ <span style="color:#50bcdf"> [certificate] SQLD</span>
 - ✴ 결과 : 폭망했는데 정처기 DB 점수보고 어느 정도 판단이 서긴 했음
-### 🔄 <span style="color:#50bcdf"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
+### ✅ <span style="color:#50bcdf"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
 - 📅 기간 : 2025.05.23 ~ 2025.06.27
 - 🎯 주관 : 인프런
 - 📝 내용 : 쿠버네티스 어나더 클래스(지상편) - Sprint 1, 2 강의 코치 기반 학습
