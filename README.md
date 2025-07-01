@@ -21,13 +21,24 @@ Status Symbols
 ❌ - Failed - <span style="color:#f05650">
 -->
 
-# 📋 Study Records
+# 📋 Study Records (0년차)
 ~~~
-Study Records는 추후 포트폴리오용 블로그로 이전 할 예정
+Study Records는 추후 개인 사이트 파서 작성할 예정
 ~~~
+[//]: # (## 🌱 2025년 12월)
+[//]: # (## 🌱 2025년 11월)
+[//]: # (## 🌱 2025년 10월)
+[//]: # (## 🌱 2025년 9월)
+## 🌱 2025년 8월
 ## 🌱 2025년 7월
-### ⏳ <span style="color:#f7ddbe"> [certificate] 정보처리기사 실기</span>
-- ✴ 7월 중 진행 예정
+### 🔄 <span style="color:#50bcdf"> [certificate] 정보처리기사 실기</span>
+- 📅 일정 : 2025.07.19 (토) 09:00
+- 공부 방식을 정한 것은 아니지만, 기출 풀어보면서 감각을 올리려고 함
+- 지금와서 이론 공부하기엔 늦었다. 감각적인 도박으로 간다
+### 🔄 <span style="color:#50bcdf"> [Competitions] SCPC 1차 온라인 예선</span>
+- 📅 일정 : 2025.07.11(금) ~ 12(토)
+- 한번쯤은 참가해보는 게 좋지 않을까? SCPC는 처음이자 마지막 참가
+- 목표는 본선 진출까지만 하면 좋겠다.
 ## 🌱 2025년 6월
 ### ⏳ <span style="color:#f7ddbe"> [Clone Project] Uniqram</span>
 - 📅 기간 : 2025.05. ~ 2025.07. (2~3 개월)
@@ -45,15 +56,16 @@ Study Records는 추후 포트폴리오용 블로그로 이전 할 예정
 ### ❌ <span style="color:#f05650"> [Competitions] 2025 AWS X CODETREE PROGRAMMING CONTEST</span>
 - 📝 내용 : 알고리즘 경진대회 [본선]
 - ✴ 결과 : 1 solved조차 하지 못했다. 아침 4시에 서울 다녀온 게 문제였을까?
-### ❌ <span style="color:#50bcdf"> [certificate] SQLD</span>
+### ❌ <span style="color:#f05650"> [certificate] SQLD</span>
 - ✴ 결과 : 폭망했는데 정처기 DB 점수보고 어느 정도 판단이 서긴 했음
-### ✅ <span style="color:#50bcdf"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
+### ✅ <span style="color:#00ff80"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
 - 📅 기간 : 2025.05.23 ~ 2025.06.27
 - 🎯 주관 : 인프런
 - 📝 내용 : 쿠버네티스 어나더 클래스(지상편) - Sprint 1, 2 강의 코치 기반 학습
     - 컨테이너 이해
     - 쿠버네티스 핵심 오브젝트 이해 및 사용
     - 배포 파이프라인 구축 (Jenkins, Helm, Kustomize, ArgoCD)
+- 후기 : DevOps 입구에 겨우 들어선 느낌.. 아직 쓸모 없는 수준
 ## 🌱 2025년 4월
 ### 🔄 <span style="color:#50bcdf"> [Personal Project] 외국어 학습 웹 사이트</span>
 - 📅 기간 : 2025.04.19 ~
