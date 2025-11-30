@@ -1,6 +1,3 @@
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=csyhorizon)](https://github.com/csyhorizon/github-readme-stats)
-
-
 # 💪Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -8,7 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-# 📒Project
+<!-- # 📒Project
 ### JPStudy - 일본어 학습 커뮤니티
 Link : [JPStudy](https://jpstudy.org)
 - 운영 기간 : 2025.12.01 ~
@@ -19,7 +16,7 @@ Link : [JPStudy](https://jpstudy.org)
 Github : [Link](https://github.com/Coffee-Commit)
 
 ### SmartMirror - 스마트 미러
-Github : [Link](https://github.com/smartm1rror)
+Github : [Link](https://github.com/smartm1rror) -->
 
 
 # ✏ Education
