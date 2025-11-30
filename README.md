@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=csyhorizon)](https://github.com/anuraghazra/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=csyhorizon)](https://github.com/csyhorizon/github-readme-stats)
 
 
 # 💪Skills
