@@ -18,8 +18,6 @@
 ![JPA](https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
-<br/>
-
 # 📒Project
 ## 🟢 Ongoing Projects
 ### JPStudy - 일본어 학습 사이트 (🙋‍♂️ 개인 프로젝트)
@@ -35,6 +33,8 @@
 ### SmartMirror - (👥 팀 프로젝트)
 - Github : [Link](https://github.com/csyhorizon/GyeongnamUni/tree/main/4-year/FinalProject-SmartMirror)
 - 기간 : 2024.10 ~ 2025.02
+
+</br>
 
 # Algorithm Study
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83)](https://solved.ac/tndyd83/)
