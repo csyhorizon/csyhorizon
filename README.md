@@ -32,7 +32,7 @@
 - Github : [Link](https://github.com/csyhorizon/goorm/tree/main/crema)
 - 기간 : 2025.08 ~ 2025.09
 
-### SmartMirror - (👥 팀 프로젝트)
+### SmartMirror - AI 피부진단 스마트 미러 (👥 팀 프로젝트)
 - Github : [Link](https://github.com/csyhorizon/GyeongnamUni/tree/main/4-year/FinalProject-SmartMirror)
 - 기간 : 2024.10 ~ 2025.02
 
