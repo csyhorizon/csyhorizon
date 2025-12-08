@@ -45,7 +45,6 @@
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83" alt="Solved.ac Profile"/>
         </a>
     </div>
-
     <div style="text-align: right; margin-left: 20px;">
         **🏆 PCCE (Programmers Coding Challenge) 1000점**
         <br/>
