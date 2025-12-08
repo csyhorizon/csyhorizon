@@ -18,6 +18,8 @@
 ![JPA](https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
+<br/>
+
 # 📒Project
 ## 🟢 Ongoing Projects
 ### JPStudy - 일본어 학습 사이트 (🙋‍♂️ 개인 프로젝트)
