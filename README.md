@@ -38,5 +38,17 @@
 
 </br>
 
-# Algorithm Study
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83)](https://solved.ac/tndyd83/)
+# Algorithm
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+        <a href="https://solved.ac/tndyd83/">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83" alt="Solved.ac Profile"/>
+        </a>
+    </div>
+
+    <div style="text-align: right; margin-left: 20px;">
+        **🏆 PCCE (Programmers Coding Challenge) 1000점**
+        <br/>
+        **🚀 2024 ACPC (AWS X Codetree Programming Contest) 본선 진출**
+    </div>
+</div>
