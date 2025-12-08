@@ -47,9 +47,9 @@
             </a>
         </td>
         <td style="text-align: left;">
-            **🏆 PCCE (Programmers Coding Challenge) 1000점**
+            🏆 PCCE (Programmers Coding Challenge) 1000점
             <br/>
-            **🚀 2024 ACPC (AWS X Codetree Programming Contest) 본선 진출**
+            🚀 2024 ACPC (AWS X Codetree Programming Contest) 본선 진출
         </td>
     </tr>
 </table>
