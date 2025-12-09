@@ -23,7 +23,7 @@
 # 📒Project
 ## 🟢 Ongoing Projects
 ### JPStudy - 일본어 학습 사이트 (🙋‍♂️ 개인 프로젝트)
-- Github : [Link](https://github.com/jpstudy-org/jpstudy-backend)
+- Github : [Link](https://github.com/jpstudy-org)
 - 기간 : 2025.09 ~ 현재
 
 ## 🔴 Closed Projects
