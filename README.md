@@ -20,23 +20,10 @@
 
 <br/>
 
-# 📒Project
 ## 🟢 Ongoing Projects
 ### JPStudy - 일본어 학습 사이트 (🙋‍♂️ 개인 프로젝트)
 - Github : [Link](https://github.com/jpstudy-org)
 - 기간 : 2025.09 ~ 현재
-
-## 🔴 Closed Projects
-
-### Cream - 커피챗 (👥 팀 프로젝트)
-- Github : [Link](https://github.com/Coffee-Commit)
-- 기간 : 2025.08 ~ 2025.09
-- 역할 : 인프라, 백엔드
-
-### SmartMirror - AI 피부진단 스마트 미러 (👥 팀 프로젝트)
-- Github : [Link](https://github.com/csyhorizon/GyeongnamUni/tree/main/4-year/FinalProject-SmartMirror)
-- 기간 : 2024.10 ~ 2025.02
-- 역할 : 프론트엔드, 인프라
 
 </br>
 
@@ -48,10 +35,10 @@
                 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83" alt="Solved.ac Profile"/>
             </a>
         </td>
-        <td style="text-align: left;">
+        <!-- <td style="text-align: left;">
             🏆 PCCE (Programmers Certified Coding Essential) 1000점
             <br/>
             🚀 2025 ACPC (AWS X Codetree Programming Contest) 본선 진출
-        </td>
+        </td> -->
     </tr>
 </table>
