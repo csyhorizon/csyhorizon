@@ -11,11 +11,8 @@
 - **깊이 있는 학습을 중요시하지만, 폭넓은 학습도 유의미하게 생각합니다.**
 -->
 
-**(2026/3)**
-- 회사 다닙니다. (Spring 백엔드)
-- 2월 기준 WEB 개인프로젝트는 이제 Claude, Gemini CLI로 넘겼습니다. (자체 개발 X, Plan : PRO / PRO)
-- 이후부터 개인 시간에 `개발`은 줄이고, `DevOps 및 인프라`로 넘어갈 예정입니다.
-- AI 개발은 안합니다. (장비 비싸고, 학습 오래걸리고, 데이터 찾는 게 시간 너무 갈림)
+**(2026/4)**
+- 1년차 백엔드 개발자
 
 <br/>
 
@@ -27,27 +24,3 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 <br/>
-<!--
-## 🟢 Ongoing Projects
-### JPStudy - 일본어 학습 사이트 (🙋‍♂️ 개인 프로젝트)
-- Github : [Link](https://github.com/jpstudy-org)
-- 기간 : 2025.09 ~ 현재
-
-</br>
-
-# Algorithm
-<table>
-    <tr>
-        <td style="padding-right: 30px;">
-            <a href="https://solved.ac/tndyd83/">
-                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83" alt="Solved.ac Profile"/>
-            </a>
-        </td>
-         <td style="text-align: left;">
-            🏆 PCCE (Programmers Certified Coding Essential) 1000점
-            <br/>
-            🚀 2025 ACPC (AWS X Codetree Programming Contest) 본선 진출
-        </td> 
-    </tr>
-</table>
--->
