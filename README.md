@@ -24,3 +24,4 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 <br/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83" alt="Solved.ac Profile"/>
